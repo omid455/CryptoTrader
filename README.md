@@ -23,4 +23,7 @@ Note: if you change the number of coins in the list, you should change the while
 ### history_check.py
 It checks your order history by asking the coin name and showing the number of available transactions to choose from. Very useful to gather information about buy and sell points in the past.
 
+### percent.py
+A simple percentage calculation utility, usefull when calculating how many percent the price of crypto has changed or to calculate percentage of a whole number.
+
 **Disclaimer: These utilities were created for my own personal use as tools to monitor the market and make decisions for trading crypto. shared here to help people have an easier access to information.use at your own risk. no guarantees.**
