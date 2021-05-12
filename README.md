@@ -20,4 +20,7 @@ You need to put your own username and password and api key in the creds.json fil
 Shows live prices for the selected cryptos (you can add or remove from the list inside the file), shows your available cash and on orders, shows your crypto holdings and finally your orders. 
 Note: if you change the number of coins in the list, you should change the while loop number accordignly, currently 17.
 
+### history_check.py
+It checks your order history by asking the coin name and showing the number of available transactions to choose from. Very useful to gather information about buy and sell points in the past.
+
 **Disclaimer: These utilities were created for my own personal use as tools to monitor the market and make decisions for trading crypto. shared here to help people have an easier access to information.use at your own risk. no guarantees.**
